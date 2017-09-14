@@ -1,6 +1,6 @@
 # vue-news-project
 
-> A Vue.js project
+> A Vue.js project，使用webpack2.0、vue2.0、vue-router、vuex、axios 仿新闻网站
 
 ## Build Setup
 
